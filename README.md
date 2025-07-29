@@ -1,1 +1,2 @@
-# Project1
+## Description
+**C++ Dating Sim** is a console-based interactive narrative game that showcases core C++ concepts while delivering an engaging “choose-your-own-adventure” experience. Players meet and converse with multiple “Datee” characters—each defined by unique attributes (hair, eye and lip color, skin tone, backstory)—and navigate branching dialogue options to build relationships and unlock different endings. The project illustrates object-oriented design using structs for character data, arrays for dialogue management, and a simple typing-effect routine to enhance immersion. It’s perfect for anyone learning C++ fundamentals, from data structures and control flow to basic user-interaction mechanics.
